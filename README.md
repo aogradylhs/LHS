@@ -1,2 +1,2 @@
 # LHS
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aogradylhs/LHS/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aogradylhs/LHS/HEAD)
